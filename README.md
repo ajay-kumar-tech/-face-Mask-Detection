@@ -44,20 +44,20 @@ Face-Mask-Detection/
 
 ## 📊 Dataset
 
--This project uses a dataset containing labeled images of people with and without face masks. You can use:
--Kaggle Face Mask Dataset
--Or any custom dataset with two labeled folders: with_mask/ and without_mask/
+ - This project uses a dataset containing labeled images of people with and without face masks. You can use:
+ - Kaggle Face Mask Dataset
+ - Or any custom dataset with two labeled folders: with_mask/ and without_mask/
 
 ---
 
 ## 📈 Sample Output
- -(Optional: Add screenshots or sample detection outputs here)
+  -(Optional: Add screenshots or sample detection outputs here)
 
 ---
 
 ## 📌 Future Work
--Deploy as a web or mobile application using Flask or Streamlit
--Improve model accuracy using advanced CNN architectures or transfer learning
--Integrate with IoT devices like Raspberry Pi for real-time field applications
+ - Deploy as a web or mobile application using Flask or Streamlit
+ - Improve model accuracy using advanced CNN architectures or transfer learning
+ - Integrate with IoT devices like Raspberry Pi for real-time field applications
 
 ---
